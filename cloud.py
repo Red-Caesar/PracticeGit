@@ -6,5 +6,5 @@ def cloud() -> List[str]:
         " _(  )_( )_ ", 
         "(_   _    _)", 
         "  (_) (__)  "]
-    
+    return s
 
