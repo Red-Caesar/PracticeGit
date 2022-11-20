@@ -16,6 +16,6 @@ def sun() -> List[str]:
         "                 '          ",
         "                 '          "
     ]
-    
+    return s   
 
 
